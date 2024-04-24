@@ -8,21 +8,22 @@ A guide on configuring your browser for security and privacy.
 
 ## Extensions
 
-### Javascript
+### Javascript Blocking
 
 - [NoScript](https://noscript.net/)
 - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)
 
-### Adblock
+### Elements Blocking (AdBlock)
 
 - [Ublock Origin](https://github.com/gorhill/uBlock)
 
-### Tracking
+### Tracking Protection
 
 - [Ghostery](https://www.ghostery.com/)
 - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 - [CanvasBlocker 2](https://add0n.com/canvas-fingerprint-blocker.html)
 - [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
+- [FastForward](https://fastforward.team/)
 
 ### Security
 
@@ -38,6 +39,12 @@ A guide on configuring your browser for security and privacy.
  
 - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
 - [Self-Destructing Cookies](https://add0n.com/self-destructing-cookies.html)
+
+### UserScripts
+
+- [AdsbyPasser](https://adsbypasser.github.io/)
+- 
+
 
 ## Testing
 
