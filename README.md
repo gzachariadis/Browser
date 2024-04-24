@@ -24,6 +24,11 @@ A guide on configuring your browser for security and privacy.
 - [CanvasBlocker 2](https://add0n.com/canvas-fingerprint-blocker.html)
 - [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
 - [FastForward](https://fastforward.team/)
+- [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls)
+- [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection)
+- [DecentralEyes](https://decentraleyes.org/)
+
+  
 
 ### Security
 
@@ -52,4 +57,6 @@ A guide on configuring your browser for security and privacy.
 - [Cover your Tracks](https://coveryourtracks.eff.org/)
 - [Browser Leaks](https://browserleaks.com/)
 - [IPLeak Test](https://ipleak.net/)
+- [IPLeak](https://ipleak.net/)
+- [FloCed](https://amifloced.org/)
 - 
