@@ -27,8 +27,7 @@ A guide on configuring your browser for security and privacy.
 - [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls)
 - [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection)
 - [DecentralEyes](https://decentraleyes.org/)
-
-  
+- [Privacy Badger](https://privacybadger.org/)
 
 ### Security
 
