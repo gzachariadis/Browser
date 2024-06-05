@@ -58,4 +58,56 @@ A guide on configuring your browser for security and privacy.
 - [IPLeak Test](https://ipleak.net/)
 - [IPLeak](https://ipleak.net/)
 - [FloCed](https://amifloced.org/)
-- 
+
+
+#### User.js Configuration 
+
+The Firefox user.js file stores user settings, the file is loaded each time Firefox starts. This a convenient way to save your browser customizations and apply them on different machines - for a more technical breakdown and explanation, you can read more in the Firefox Wiki.
+
+I used the sources below to create my [user.js.](Post-Install/Application%20Files/user.js)
+Please don't apply it blindly and produce your own research on what settings you want applied in your browser.
+
+##### Sources 
+
+- [Awesome Firefox (v1.0.0)](https://github.com/awesome-windows11/firefox)
+
+- [TheFrenchGhosty's Ultimate Firefox Configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration)
+
+- [Farag2 Mozilla-Firefox](https://github.com/farag2/Mozilla-Firefox)
+
+- [Firefox Previledged Scripts](https://github.com/aminomancer/uc.css.js#recommended-settings)
+
+- [Firefox Config](https://github.com/prirai/firefox-config)
+
+- [Firefox configuration hardening](https://github.com/pyllyukko/user.js)
+
+- [Firefox Config - Privacy Settings](https://gist.github.com/0XDE57/fbd302cef7693e62c769)
+
+- [Betterfox](https://github.com/yokoffing/Betterfox)
+
+- [Firefox Config](https://gist.github.com/jornane/f47c344bae4c04ac761ee48b0b88c869)
+
+- [Arkenfox](https://github.com/arkenfox/user.js/)
+
+- [Pyllyukko's User.js](https://github.com/pyllyukko/user.js)
+
+#### Extensions 
+
+This is a list of the extensions, I apply to my Firefox Configuration, as of the latest release of this project. Any settings files are included in the folder.
+
+- [Omni](https://github.com/alyssaxuu/omni)
+
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+
+- [FastForward](https://github.com/FastForwardTeam/FastForward)
+
+- [xBrowserSync](https://addons.mozilla.org/en-US/firefox/addon/xbs/)
+
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+
+- [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
+  
