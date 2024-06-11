@@ -1,33 +1,38 @@
-# Browser
+# Introduction
 
-A guide on configuring your browser for security and privacy.
+My browser configurations.
 
-## Profile
+## Deciding on a Browser
 
-- [Firefox ProfileMaker](https://ffprofile.com/)
+I currently use two browsers for most of my browsing
+
+- [Ungoogled Chromium]()
+- [Librewolf]()
 
 ## Extensions
 
 ### Javascript Blocking
 
 - [NoScript](https://noscript.net/)
-- [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)
 
 ### Elements Blocking (AdBlock)
 
-- [Ublock Origin](https://github.com/gorhill/uBlock)
+- [x] [Ublock Origin](https://github.com/gorhill/uBlock)
+
+### Skipping Forward
+
+- [ ] [FastForward](https://fastforward.team/)
+- [ ] [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect)
 
 ### Tracking Protection
 
-- [Ghostery](https://www.ghostery.com/)
-- [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
-- [CanvasBlocker 2](https://add0n.com/canvas-fingerprint-blocker.html)
+- [x] [Ghostery](https://www.ghostery.com/)
+- [x] [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 - [First Party Isolation](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
-- [FastForward](https://fastforward.team/)
-- [ClearURLs](https://gitlab.com/ClearURLs/ClearUrls)
+- [x] [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 - [CSS Exfil Protection](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection)
-- [DecentralEyes](https://decentraleyes.org/)
-- [Privacy Badger](https://privacybadger.org/)
+- [x] [DecentralEyes](https://decentraleyes.org/) or [Local CDN](https://www.localcdn.org/)
+- [x] [Privacy Badger](https://privacybadger.org/)
 
 ### Security
 
@@ -35,20 +40,39 @@ A guide on configuring your browser for security and privacy.
 
 ### Privacy
 
-- [Local CDN](https://www.localcdn.org/)
 - [Site Bleacher](https://github.com/wooque/site-bleacher)
-- [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect)
 
 ### Cookies
  
 - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
 - [Self-Destructing Cookies](https://add0n.com/self-destructing-cookies.html)
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Not Maintained?
 
-### UserScripts
+### Utility
+
+- [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
+- [Omni](https://github.com/alyssaxuu/omni)
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+
+### UserScript Manager
+
+- [x] [Violent Monkey](https://violentmonkey.github.io/)
+
+### Browser Syncing
+
+- [xBrowserSync](https://addons.mozilla.org/en-US/firefox/addon/xbs/)
+
+## Profile Making
+
+- [Firefox ProfileMaker](https://ffprofile.com/)
+
+## Userscripts
 
 - [AdsbyPasser](https://adsbypasser.github.io/)
-- 
-
+- [Anti-AdBlocker FuckOff](https://greasyfork.org/es/scripts/397070-anti-adblocker-off/feedback)
+- [AdLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads)
+- [Prevent Page Visibility](https://greasyfork.org/en/scripts/427254-preventpagevisibility)
+- [Remove Google CLick-tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking)
 
 ## Testing
 
@@ -58,7 +82,6 @@ A guide on configuring your browser for security and privacy.
 - [IPLeak Test](https://ipleak.net/)
 - [IPLeak](https://ipleak.net/)
 - [FloCed](https://amifloced.org/)
-
 
 #### User.js Configuration 
 
@@ -91,23 +114,5 @@ Please don't apply it blindly and produce your own research on what settings you
 
 - [Pyllyukko's User.js](https://github.com/pyllyukko/user.js)
 
-#### Extensions 
 
-This is a list of the extensions, I apply to my Firefox Configuration, as of the latest release of this project. Any settings files are included in the folder.
 
-- [Omni](https://github.com/alyssaxuu/omni)
-
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
-
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock)
-
-- [FastForward](https://github.com/FastForwardTeam/FastForward)
-
-- [xBrowserSync](https://addons.mozilla.org/en-US/firefox/addon/xbs/)
-
-- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
-
-- [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
-  
