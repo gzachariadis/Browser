@@ -13,7 +13,7 @@ I currently use two browsers for most of my browsing
 
 ### Javascript Blocking
 
-- [NoScript](https://noscript.net/)
+- [x] [NoScript](https://noscript.net/)
 
 ### Elements Blocking (AdBlock)
 
@@ -34,14 +34,17 @@ I currently use two browsers for most of my browsing
 - [x] [DecentralEyes](https://decentraleyes.org/) or [Local CDN](https://www.localcdn.org/)
 - [x] [Privacy Badger](https://privacybadger.org/)
 
+
 ### Security
 
 - [Httpz](https://github.com/claustromaniac/httpz)
 
+
 ### Privacy
 
 - [Site Bleacher](https://github.com/wooque/site-bleacher)
-
+- [x] [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
+  
 ### Cookies
  
 - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
