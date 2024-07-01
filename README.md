@@ -43,7 +43,7 @@ I currently use two browsers for most of my browsing
 ### Privacy
 
 - [Site Bleacher](https://github.com/wooque/site-bleacher)
-- [x] [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
+- [x] [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - [Github](https://github.com/ACK-J/Port_Authority)
   
 ### Cookies
  
