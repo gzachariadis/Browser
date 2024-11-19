@@ -1,4 +1,4 @@
-# uBlockOrigin
+# [uBlock Origin](https://github.com/gorhill/uBlock)
 
 A backup of my uBlock settings, accompanied by notes and information on how to properly use this amazing tool.
 
